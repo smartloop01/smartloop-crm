@@ -36,3 +36,17 @@ PostgreSQL
 - Aumento da produtividade
 - Gestão de oportunidades
 - Indicadores em tempo real
+- 
+smartloop-crm
+│
+├── README.md
+├── screenshots/
+│ ├── dashboard.png
+│ ├── clientes.png
+│ └── vendas.png
+│
+├── docs/
+│ ├── arquitetura.md
+│ └── funcionalidades.md
+│
+└── src/
