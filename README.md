@@ -4,7 +4,7 @@
 
 Sistema de gestão comercial desenvolvido para aumentar a produtividade das equipes de vendas.
 
-## Funcionalidades
+## :dart: Funcionalidades
 
 - Cadastro de clientes
 - Funil de vendas
@@ -13,40 +13,31 @@ Sistema de gestão comercial desenvolvido para aumentar a produtividade das equi
 - Dashboard gerencial
 - Relatórios
 
-## Tecnologias
+## 🏗️ Arquitetura
 
-- Python
-- Flet
-- FastAPI
-- PostgreSQL
-
-## Arquitetura
-
-Cliente
-↓
-Flet
-↓
-FastAPI
-↓
-PostgreSQL
-
-## Benefícios
-
+- 🖥️ Frontend (Flet)
+    ↓
+- ⚡ API REST (FastAPI)
+    ↓
+- 🤖 Serviços de IA (OpenAI)
+    ↓
+- 🐘 PostgreSQL
+    ↓
+- ☁️ Infraestrutura Cloud
+## :moneybag: Benefícios
 - Centralização dos dados
 - Aumento da produtividade
 - Gestão de oportunidades
 - Indicadores em tempo real
-- 
-smartloop-crm
-│
-├── README.md
-├── screenshots/
-│ ├── dashboard.png
-│ ├── clientes.png
-│ └── vendas.png
-│
-├── docs/
-│ ├── arquitetura.md
-│ └── funcionalidades.md
-│
-└── src/
+ ## smartloop-crm
+- ├── README.md
+- ├── screenshots/
+- │ ├── dashboard.png
+- │ ├── clientes.png
+- │ └── vendas.png
+- │
+- ├── docs/
+- │ ├── arquitetura.md
+- │ └── funcionalidades.md
+- │
+- └── src/
